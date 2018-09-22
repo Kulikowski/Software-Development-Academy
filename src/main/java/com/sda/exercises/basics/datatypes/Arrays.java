@@ -1,8 +1,12 @@
-package com.sda.exercises.datatypes;
+package com.sda.exercises.basics.datatypes;
 
 import com.google.common.annotations.VisibleForTesting;
 
 public class Arrays {
+
+    //Annotation is not really doing anything
+    //Used to make it obvious for other programmers
+    //why this field is package-visible (default access modifier)
 
     @VisibleForTesting
     final int[] array = {5, 6, 8, 1, 3};

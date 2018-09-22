@@ -1,17 +1,17 @@
-package com.sda.exercises.controlstatements;
+package com.sda.exercises.basics;
 
 import org.junit.Before;
 import org.junit.Test;
 
 import static junit.framework.TestCase.*;
 
-public class ControlStatementsTest {
+public class ConditionStatementsTest {
 
-    private ControlStatements sut;
+    private ConditionStatements sut;
 
     @Before
     public void setup() {
-        sut = new ControlStatements();
+        sut = new ConditionStatements();
     }
 
     @Test

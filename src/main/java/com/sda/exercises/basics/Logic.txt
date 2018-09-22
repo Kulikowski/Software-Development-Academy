@@ -1,0 +1,4 @@
+Create a LogicTest class that will have the main function
+Read the integer from the keyboard and then if the number is greater than 0 and less than 10,
+display the text: "The number belongs to a range from 0 to 10"
+Read the integer from the keyboard and display "OK" if the number is equal to 10 or 50

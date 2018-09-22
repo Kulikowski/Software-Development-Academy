@@ -1,4 +1,4 @@
-package com.sda.exercises.datatypes;
+package com.sda.exercises.basics.datatypes;
 
 import org.junit.Before;
 import org.junit.Test;

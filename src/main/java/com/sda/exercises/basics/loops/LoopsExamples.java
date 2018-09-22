@@ -1,4 +1,4 @@
-package com.sda.exercises.loops;
+package com.sda.exercises.basics.loops;
 
 import com.sda.exercises.BaseExample;
 
@@ -11,6 +11,12 @@ public class LoopsExamples extends BaseExample {
         List<String> listOfStrings = List.of("First", "Second", "Third", "Fourth");
 
         for (int i = 0; i < listOfStrings.size(); i++) {
+            System.out.println(listOfStrings.get(i));
+        }
+
+        System.out.println(EXAMPLE_DELIMITER);
+
+        for (int i = listOfStrings.size() - 1; i >= 0; i--) {
             System.out.println(listOfStrings.get(i));
         }
 

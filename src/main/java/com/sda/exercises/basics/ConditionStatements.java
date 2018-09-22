@@ -1,6 +1,7 @@
-package com.sda.exercises.controlstatements;
+package com.sda.exercises.basics;
 
-public class ControlStatements {
+public class ConditionStatements {
+
     public boolean isAGreaterThanB(int a, int b) {
         return false;
     }
