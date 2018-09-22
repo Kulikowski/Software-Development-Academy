@@ -1,0 +1,17 @@
+Create a TeddyBear class (without the main method), which will have one private String name field and a constructor with which you can set its value.
+Add the public sayHello () method to the TeddyBear class, which will display a greeting with the name read from the class field
+
+Create the TeddyBearTest class with the main method and test the functionality
+Add the private String String favoriteSnack to the TeddyBear class,
+and then write a new constructor that will also allow you to set the value of this field.
+Add a display of the delicacy in the sayHello method.
+
+Create a parameter-free constructor that sets the default values ​​of name = "Ted" in the TeddyBear class, favSnack = "fries"
+Create a constructor with three parameters that sets the values ​​of name, favSnack and private int age; Add the public getAge()
+method that will RETURN the teddy bear age.
+Add the public void incrementAge () method to the TeddyBear class, which will increase the age of the teddy bear by 1
+* Add getter to the name field in the TeddyBear class. (public String getName ()), which will RETURN the name Teddy.
+
+In the TeddyBear class, write static void compareTwoBears,
+which will take two TeddyBear variables for the parameters,
+then this method should compare the age of teddy bears and tell which teddy is older.

@@ -1,0 +1,16 @@
+1. Create a Rectangle class that will implement the Shape interface,
+implement a method that calculates the field and perimeter.
+The class should contain private fields int "sideA" and "sideB".
+Add a two-parameter Rectangle counter (sideA, sideB)
+
+2. Create a Circle class that will implement the Shape interface,
+then implement the method that calculates the field (Hint: use Math.PI) and the perimeter.
+The class should contain one private field "radius".
+Add single-parameter constructor Circle (radius)
+
+3. Create a Square class that will inherit from the Rectangle class.
+Add a single-parameter Square (side) constructor,
+which will be called by a two-parameter constructor (super) Rectangle class.
+
+//    REMEMBER!!!
+//    Write unit tests in test package. You can copy existing test class and make it similar.
