@@ -1,0 +1,4 @@
+Write a calculator that reads two integers from the keyboard, then reads the character and
+performs the correct operation depending on the chosen character and displays the result.
+
+Write unit tests in test package. You can copy existing test class and make it similar.
