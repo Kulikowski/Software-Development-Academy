@@ -1,16 +1,17 @@
 package com.sda.exercises.basics.datatypes;
 
+import com.sda.exercises.basics.loops.FunWithArrays;
 import org.junit.Before;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
-public class ArraysTest {
-    private Arrays sut;
+public class FunWithArraysTest {
+    private FunWithArrays sut;
 
     @Before
     public void setup() {
-        sut = new Arrays();
+        sut = new FunWithArrays();
     }
 
     @Test

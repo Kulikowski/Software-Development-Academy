@@ -1,0 +1,3 @@
+Read number from keyboard.
+
+If number is 10 < x < 50 print out OK, it not print out WRONG

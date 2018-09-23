@@ -1,0 +1,9 @@
+Check if given string is a palindrome:
+
+Example:
+
+kayak - YES
+ooboo - YES
+boo - NO
+o - YES
+abab - NO

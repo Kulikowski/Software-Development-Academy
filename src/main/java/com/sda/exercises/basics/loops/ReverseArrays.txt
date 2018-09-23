@@ -1,0 +1,9 @@
+Create a method to reverse order of an array.
+
+Example:
+
+In:
+[2,3,4,5,6]
+
+Out:
+[6,5,4,3,2]

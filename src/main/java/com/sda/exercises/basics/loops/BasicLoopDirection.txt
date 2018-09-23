@@ -1,0 +1,6 @@
+Declare an array int[] myNumbers = new int[]{2,3,4,5,6}
+
+and print out its content to console:
+
+1. from the beginning to end
+2. from the end to beginning

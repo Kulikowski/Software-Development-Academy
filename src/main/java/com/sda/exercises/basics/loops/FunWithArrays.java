@@ -1,8 +1,8 @@
-package com.sda.exercises.basics.datatypes;
+package com.sda.exercises.basics.loops;
 
 import com.google.common.annotations.VisibleForTesting;
 
-public class Arrays {
+public class FunWithArrays {
 
     //Annotation is not really doing anything
     //Used to make it obvious for other programmers

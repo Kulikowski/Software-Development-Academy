@@ -1,4 +1,4 @@
-package com.sda.exercises.methods;
+package com.sda.exercises.basics.methods;
 
 public class Methods {
     /**
